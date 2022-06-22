@@ -1,11 +1,19 @@
 import React from 'react';
 import Navbar from './componentes/Navbar/Navbar'  
 import './App.css';
+import Container from './componentes/Container';
+
 
 
 const App = () =>{
   return(
-<Navbar/>
+  <main>
+    <Navbar/>
+    <Container name ="Texto Provisorio"/>
+  </main>
+      
+    
+
   );
 }
 

@@ -1,5 +1,6 @@
 import React from "react"
 import logo from "../../assents/imagenlogo.png"
+import Icono from "../Icono"
 import "./Navbar.css"
 
 const Navbar = () => {
@@ -13,6 +14,7 @@ const Navbar = () => {
             <a href="#">Solicita tu tarjeta</a>
             <a href="#">Home Banking</a>
         </nav>
+        <img src={Icono} alt="" />
         </header>
     )
 }
