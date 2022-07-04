@@ -20,9 +20,7 @@ const restar = () =>{
     }
 }
 
-const onAdd= () =>{
-    alert(`Agregaste ${cuenta} productos al carrito`)
-}
+
 
 
 

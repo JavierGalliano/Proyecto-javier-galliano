@@ -9,7 +9,7 @@ const App = () =>{
   return(
   <main>
     <Navbar/>
-    <Container name ="Texto Provisorio"/>
+    <Container/>
   </main>
       
     
